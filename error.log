@@ -1,0 +1,1 @@
+[Tue Jun 01 09:47:37.066884 2021] [php:error] [pid 40187] [client 192.168.13.96:57436] PHP Fatal error:  Cannot use empty array elements in arrays in /srv/users/uhxrmyma/bnfcenn-m1/views/video/index.php on line 38, referer: http://bnfcenn-m1.wsr.ru/video/create
